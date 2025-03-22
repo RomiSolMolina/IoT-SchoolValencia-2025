@@ -1,1 +1,3 @@
-# IoT-SchoolValencia-2025
+# IoT for Eco-Friendly Tourism - Summer School
+
+Valencia, Spain - 2025
