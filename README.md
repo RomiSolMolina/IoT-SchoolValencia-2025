@@ -1,5 +1,6 @@
 # IoT for Eco-Friendly Tourism - Summer School
 
+![Uploading image.png…]()
 
 
 ## Demo: MNIST-based binary classification
